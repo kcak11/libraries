@@ -5,7 +5,7 @@
  License: https://mit-license.kcak11.com
 */
 
-(function(w) {
+;(function(w) {
     var API = w.$api;
     if (!API) {
         API = w.$api = {};
