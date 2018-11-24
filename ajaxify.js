@@ -48,3 +48,4 @@
         xhr.send(data);
     };
 }(window));
+/* vTag:ajle74dib52h6c8gkf031 */
